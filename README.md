@@ -1,11 +1,11 @@
-## Potato Disease Classifier
+# Potato Disease Classifier
 This repository contains a FastAPI backend and a Streamlit frontend for classifying potato plant diseases using deep learning.
 
 
 ![image](https://github.com/user-attachments/assets/ba76f5f3-2cc5-4c1b-801b-f39c625e199a)
 
 
-# Overview
+## Overview
 The project consists of two main components:
 
 1. FastAPI Backend (api/main.py):
@@ -20,7 +20,7 @@ The project consists of two main components:
 - Sends images to the FastAPI backend for disease classification.
 - Displays classification results including disease type and confidence level.
 
-# Getting Started
+## Getting Started
 To run the application locally:
 
 1. Clone the repository:
